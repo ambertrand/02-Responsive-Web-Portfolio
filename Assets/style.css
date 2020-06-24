@@ -2,9 +2,16 @@
     font-family: 'Roboto', sans-serif;
 }
 
+nav {
+    padding-left: 80px;
+}
+
 nav span{
-    background-color: #4169e1;
+    background-color: #4179e1;
     color: #ffffff;
-    width: 140px;
+    width: 280px;
     height: 100px;
+    text-align: center;
+    font-size: 35px;
+    padding: 20px;
 }
