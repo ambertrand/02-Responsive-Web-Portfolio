@@ -2,6 +2,9 @@
     font-family: 'Roboto', sans-serif;
 }
 
-nav a{
-    font-size: larger;
+nav span{
+    background-color: #4169e1;
+    color: #ffffff;
+    width: 140px;
+    height: 100px;
 }
