@@ -3,6 +3,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    background-image: url(https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
 nav span{
     background-color: #4179e1;
     color: #ffffff;
@@ -11,4 +15,9 @@ nav span{
     text-align: center;
     font-size: 35px;
     padding: 20px;
+}
+
+.container {
+    background-color:#ffffff;
+    padding: 40px;
 }
