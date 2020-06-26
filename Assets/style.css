@@ -21,3 +21,7 @@ nav span{
     background-color:#ffffff;
     padding: 40px;
 }
+
+div.footer-margin {
+    height: 100px;
+}
