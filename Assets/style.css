@@ -9,7 +9,7 @@ body {
 }
 
 nav {
-    position: fixed;
+    position: sticky;
     height: 100px;
 }
 

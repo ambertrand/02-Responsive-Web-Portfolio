@@ -18,57 +18,58 @@
 <body>
     <header>
         <!-- Navigation bar -->
-        <nav class="navbar bg-light">
+        <nav class="navbar bg-light justify-content-end">
             <h1 class="fixed-top">Alex Bertrand</h1>
 
             <!-- Navigation list -->
-            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="portfolio.html">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
-                    </li>
-                </ul>
-            </div>
+            <ul class="nav ">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
         </nav>
     </header>
 
     <!-- Contact form -->
     <main>
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h2>Contact</h2>
-                    <div class="form-group">
-                        <label>Name</label>
-                        <input type="name" class="form-control" id="InputName" placeholder="John Smith">
+
+            <section class="sub-container">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <h2>Contact</h2>
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input type="name" class="form-control" id="InputName" placeholder="John Smith">
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="email" class="form-control" id="InputEmail" placeholder="example@gmail.com">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Message</label>
+                            <textarea class="form-control" id="InputMessage" rows="3"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
                     </div>
-                    <div class="form-group">
-                        <label>Email</label>
-                        <input type="email" class="form-control" id="InputEmail" placeholder="example@gmail.com">
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleFormControlTextarea1">Message</label>
-                        <textarea class="form-control" id="InputMessage" rows="3"></textarea>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                    </form>
                 </div>
-            </div>
+            </section>
             <form>
         </div>
     </main>
 
-<!-- Footer -->
-        <footer class="card-footer footer-dark bg-dark">
-            <p>&copy; Copyright
-            </p>
-        </footer>
+    <!-- Footer -->
+    <footer class="footer fixed-bottom footer-dark bg-dark">
+        <p>&copy; Copyright
+        </p>
+    </footer>
 </body>
 
 </html>
