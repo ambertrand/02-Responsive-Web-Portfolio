@@ -8,25 +8,32 @@ body {
     margin: 0, auto;
 }
 
-nav span{
+nav {
+    position: fixed;
+    height: 100px;
+}
+
+nav h1{
     background-color: #4179e1;
     color: #ffffff;
     width: 280px;
     height: 100px;
     text-align: center;
     font-size: 35px;
-    padding: 20px;
+    padding: 25px;
+    margin-left: 90px;
 }
 
 .container {
     background-color:#ffffff;
     padding: 40px;
     margin-top: 60px;
+    margin-left: 90px;
 }
 
 footer{
     width: 100%;
-    margin-top:180px;
+    margin-top:140px;
     margin-left: 0px;
 }
 
@@ -36,3 +43,7 @@ footer p {
     height: 100px;
     padding: 50px;
 }
+
+/* @media screen and (max-width: 640px;) {
+
+} */
