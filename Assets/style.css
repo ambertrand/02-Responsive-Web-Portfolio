@@ -34,16 +34,21 @@ h2 {
     color: #4179e1;
 }
 
-.card {
-    min-height: 200px;
-}
-
 img.float-left {
     margin: 20px;
 }
 
-img.card-img-top {
-    object-fit: cover;
+img.card-image-top {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+a.btn {
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+    
 }
 
 footer{
@@ -65,7 +70,3 @@ footer p {
     margin-bottom: 0px;
     padding: 50px;
 }
-
-/* @media screen and (max-width: 640px;) {
-
-} */
