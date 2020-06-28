@@ -40,6 +40,10 @@ img {
 
 footer{
     width: 100%;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color:#4179e1;
+    
 }
 
 footer p {
