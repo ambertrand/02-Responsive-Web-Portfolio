@@ -46,6 +46,10 @@ footer{
     
 }
 
+div.footer-margin {
+    height: 100px;
+}
+
 footer p {
     color:#ffffff;
     text-align: center;
