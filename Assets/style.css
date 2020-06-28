@@ -27,11 +27,15 @@ nav h1{
 .sub-container {
     background-color:#ffffff;
     padding: 20px;
-    margin: 20px -210px;
+    margin: 30px -210px;
 }
 
 h2 {
     color: #4179e1;
+}
+
+img {
+    margin: 20px;
 }
 
 footer{
