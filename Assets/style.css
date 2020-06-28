@@ -27,7 +27,7 @@ nav h1{
 .sub-container {
     background-color:#ffffff;
     padding: 20px;
-    margin: 30px -210px;
+    margin: 20px 10px;
 }
 
 h2 {
@@ -36,6 +36,11 @@ h2 {
 
 img.float-left {
     margin: 20px;
+}
+
+img.card-img-top {
+    width:100%;
+    height: auto;
 }
 
 footer{
