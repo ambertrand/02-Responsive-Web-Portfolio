@@ -27,7 +27,7 @@ nav h1{
 .sub-container {
     background-color:#ffffff;
     padding: 20px;
-    margin: 20px 20px;
+    margin: 20px -210px;
 }
 
 h2 {
@@ -41,7 +41,8 @@ footer{
 footer p {
     color:#ffffff;
     text-align: center;
-    height: 100px;
+    height: 10px;
+    margin-bottom: 0px;
     padding: 50px;
 }
 
