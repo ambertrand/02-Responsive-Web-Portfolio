@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background: url(./assets/images/background-img);
     margin: 0, auto;
 }
 
