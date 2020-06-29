@@ -11,5 +11,7 @@ For this project I was tasked with developing a 3 page personal web app using th
 
 After talking with some classmates I found that most of them found the sample images hard to follow so I decided to format it myself and really try to create a personalized web portfolio.  Below are some images of my finished product.
 
-**Image**
-![About Me](./assets/images/About me image)
+**Images**
+![About me image](https://user-images.githubusercontent.com/65721950/85963007-b1047300-b981-11ea-87df-ac3baa46771e.png)
+![Portfolio image](https://user-images.githubusercontent.com/65721950/85963009-b661bd80-b981-11ea-9b44-db22c30d1e36.png)
+![contact image](https://user-images.githubusercontent.com/65721950/85963012-b95cae00-b981-11ea-8db4-9acf6c589642.png)
